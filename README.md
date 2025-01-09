@@ -1,4 +1,4 @@
-# PCA on Dataset - A Practical Guide 🎉
+# PCA on Dataset 
 
 Welcome to the **PCA on Dataset** project! This repository provides a practical demonstration of **Principal Component Analysis (PCA)** for dimensionality reduction and data visualization. 🌟
 
